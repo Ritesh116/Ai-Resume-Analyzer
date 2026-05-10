@@ -26,7 +26,7 @@ Instead of sending your data to external APIs, this tool processes everything lo
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Ritesh116/ats-intelligence.git](https://github.com/Ritesh116/Ai-Resume-Analyzer.git)
+   git clone [https://github.com/Ritesh116/Ai-Resume-Analyzer.git](https://github.com/Ritesh116/Ai-Resume-Analyzer.git)
    
    ## Install the required libraries
    pip install Flask PyPDF2 scikit-learn
